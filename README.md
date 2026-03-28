@@ -7,3 +7,6 @@ Preparing Text Data for RAG - https://s172-29-2-249p8888.lab-aws-production.deep
 Adding Relationships to the SEC Knowledge Graph - https://s172-29-118-234p8888.lab-aws-production.deeplearning.ai/edit/23004/neo4j.dump
 
 Expanding the SEC Knowledge Graph - https://s172-29-70-171p8888.lab-aws-production.deeplearning.ai/edit/23005/neo4j.dump
+
+Chatting with the knowledge graph - https://s172-29-108-223p8888.lab-aws-production.deeplearning.ai/edit/23006/neo4j.dump
+
